@@ -13,6 +13,7 @@
 
 程序运行情况和最后展示结果如下，兵哥哥成功登顶，这下爱国歌曲包揽民歌榜top2，赞赞赞。
 ![images](https://github.com/jinxiwang/Auto_Vote/blob/master/images/333.PNG)
+
 ![images](https://github.com/jinxiwang/Auto_Vote/blob/master/images/444.png)
 
 [我的CSDN博客](https://blog.csdn.net/wangjinxile/article/details/105183383)
